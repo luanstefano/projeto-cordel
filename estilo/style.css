@@ -71,6 +71,10 @@ section.imagem {
     background-attachment: fixed;
 }
 
+p {
+    padding: 10px;
+}
+
 section.imagem > p {
     background-color: rgba(0, 0, 0, 0.404);
     width: 50vw;
